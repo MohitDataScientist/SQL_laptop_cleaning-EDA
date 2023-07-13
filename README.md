@@ -10,18 +10,34 @@ The cleaned dataset contained 1,000 rows and 15 columns. The most important colu
 Columns Description:
 
 Laptop Name: The name of the laptop.
+
 Price: The price of the laptop.
+
 Screen Size: The size of the laptop's screen in inches
+
 Processor Type: The type of processor in the laptop
+
 Operating System: The operating system that the laptop runs
+
 RAM: The amount of RAM in the laptop.
+
 Storage: The amount of storage in the laptop.
+
 Weight: The weight of the laptop in pounds
+
 Dimensions: The dimensions of the laptop are in inches.
+
 Brand: The brand of the laptop
+
 Model: The model of the laptop.
+
 Release Date: The date the laptop was released.
+
 Warranty: The length of the laptop's warranty
+
 Final Result:
 
 The final result of the project was a cleaned dataset that was ready for further analysis. The EDA revealed some interesting trends and patterns about laptop prices and specifications. This information could be used by businesses to make decisions about product development, marketing, and pricing.
+
+
+
